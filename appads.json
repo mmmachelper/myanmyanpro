@@ -1,0 +1,52 @@
+{
+"ads_config": {
+"global_enabled": true,
+"open_ads": {
+"enabled": true,
+"ads": [
+{
+"id": "open_001",
+"name": "adsnotice",
+"media_type": "video",
+"media_url": "https://cdnok.geoclass.space/myanadsvideo.mp4",
+"click_url": "https://example.com/promo",
+"button_text": "Download Now",
+"duration_seconds": 15,
+"skip_after_seconds": 5,
+"priority": 1,
+"start_date": "2025-12-20",
+"end_date": "2025-12-31"
+}
+]
+},
+"banner_ads": {
+"enabled": true,
+"refresh_interval_seconds": 30,
+"ads": [
+{
+"id": "banner_001",
+"name": "Premium Banner",
+"media_type": "image",
+"media_url": "https://cf-file-paste.ftube-net.workers.dev/d/f489386b-086e-4214-a84e-7f44401c64cf",
+"click_url": "https://t.me/X109110",
+"position": "under_title",
+"priority": 1
+}
+]
+},
+"text_ads": {
+"enabled": true,
+"scroll_speed": "normal",
+"ads": [
+{
+"id": "text_001",
+"name": "New Year Sale",
+"text": "🎉 New Year Sale! Get 50% OFF Premium! 🚀",
+"click_url": "https://example.com/sale",
+"text_color": "#FFD700",
+"priority": 1
+}
+]
+}
+}
+}
