@@ -1,6 +1,6 @@
 {
 "ads_config": {
-"global_enabled": true,
+"global_enabled": false,
 "open_ads": {
 "enabled": true,
 "ads": [
